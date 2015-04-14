@@ -27,6 +27,7 @@
     "hubot-plusplus": "git://github.com/ajacksified/hubot-plusplus.git#master",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "hubot-slack": "~3.3.0",
+    "hubot-asana": ">= 0.0.0",
     "querystring": "",
     "request": "",
     "underscore": "1.4.x",
