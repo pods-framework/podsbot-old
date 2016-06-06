@@ -14,7 +14,7 @@
 #   pmgarman
 
 searchURL = 'pods.io/docs/'
-searchBase = 'https://ajax.googleapis.com/ajax/services/search/web?v=1.0&q=site:' + searchURL + '%20'
+searchBase = 'https://www.googleapis.com/customsearch/v1?cx=018336167779169652526%3A-8na6q15ruy&key=AIzaSyCRgsgxFW-4S1APoDXZC19Vd2s8oZWLUfY&q='
 
 module.exports = (robot) ->
   robot.hear /\.search (.+)$/i, (msg) ->
